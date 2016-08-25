@@ -1,0 +1,14 @@
+// BASE
+body {
+	font-family: $font-primary;
+	font-size: $font-size-body;
+	color: $color-text;
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: $font-header;
+	}
+
+	h1 {
+		font-size: $font-size-header;
+	}
+}
